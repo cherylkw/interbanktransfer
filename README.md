@@ -4,14 +4,14 @@
 
 Welcome to InterBank Transfer Payment Dapp! This dapp is built using Ethereum smart contracts in Solidity, OpenZeppelin and Truffle. The cryptocurrency **Gaia Token** using in this project is under ERC-20 standard.Its symbol is **GAT** and total supply is **1,000,000**.
 
-InterBank Transfer Payment Dapp is a solution using cryptocurrency for the settlement and clearance of global InterBank transfers. As every county's central bank has different types of centralized electronic fund transfer systems. These systems are used by the country's banks to send messages to each other to facilitate the transfer of funds to their customers. Every bank holds a settlement account with the central bank, and money is either credited or debited in these accounts whenever there is a transfer message. Let's take alook at below scenario.
+InterBank Transfer Payment Dapp is a solution using cryptocurrency for the settlement and clearance of global InterBank transfers. As every country's central bank has different types of centralized electronic fund transfer systems. These systems are used by the country's banks to send messages to each other to facilitate the transfer of funds to their customers. Every bank holds a settlement account with the central bank, and money is either credited or debited in these accounts whenever there is a transfer message. Let's take alook at below scenario.
 
 ## Scenario
 
 Bank A in US and Bank B in Finland , both have settlement accounts in Gaia Central Bank. Gaia Central Bank issue funds into their settlement accounts so that they can transfer funds whenever they recieve payment requests from their customers.
 
 Each bank can create their customer accounts using their mobile numbers. So mobile number is the address of the customer accounts.
-Each mobile number account can hold multiply bank accounts.
+Each mobile number account can hold multiple bank accounts.
 
 So Alice is the customer of Bank A and she wants to send a global payment $100 to Rob in Finaland Bank B. So when Bank B recieve the transfer message from Bank A, Bank B will use Alice's mobile number to check and validate her account in Bank A. Then Bank B will send(debit) $100 from it's settlement account under Gaia Central Bank to (credited) Bank A's settlement account. Payment transfer records will be stored and able to retrieve for reference.
 
