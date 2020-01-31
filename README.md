@@ -94,7 +94,7 @@ Copy the MNEMONIC seed to Metamask and connect Metamask as "LocalHost 8545" on t
 
 Open up another new terminal, make sure the ganache-cli terminal is running at the same time.
 
-1. git clone https://github.com/cherylkw/proof-of-existence-exercise.git
+1. git clone https://github.com/cherylkw/interbanktransfer.git
 
 2. Move to centralbank directory
     >npm install
