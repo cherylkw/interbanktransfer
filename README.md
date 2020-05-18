@@ -177,6 +177,8 @@ After created settlebank account, open MetaMask, choose the account( e.g. **Bank
     Under **View Mobile Number Account Transcation Records** section
 
         - Enter mobile number **123456789**, the transcation record should display
+        
+  Author : CherylKwong Email: cherylkwong@gmail.com
 
 
 
