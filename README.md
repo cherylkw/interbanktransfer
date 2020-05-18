@@ -55,6 +55,14 @@ https://youtu.be/07u7FAIQlQw
 
 - Libraries of OpenZeppelin EthPM package : Safemath, Ownable, Pausable and SignerRole
 
+## Design Pattern Decisions
+
+https://github.com/cherylkw/interbanktransfer/blob/master/design_pattern_decisions.md
+
+## Avoiding Common Attacks
+
+https://github.com/cherylkw/interbanktransfer/blob/master/avoiding_common_attacks.md
+
 ## Pre-requisites and programs used versions:
 
 - Truffle v5.1.7 (core: 5.1.7)
@@ -169,6 +177,7 @@ After created settlebank account, open MetaMask, choose the account( e.g. **Bank
 
         - Enter mobile number **123456789**, the transcation record should display
 
+Author : Cheryl Kwong Email : cherylkwong@gmail.com
 
 
 
