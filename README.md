@@ -49,11 +49,20 @@ CentralBank
 https://rinkeby.etherscan.io/address/0x2C23103F9660B270BAcD984fBB5985404Ab41605
 
 ## Youtube Demo
+
 https://youtu.be/07u7FAIQlQw
 
 ## EthPM/Libraries/External
 
 - Libraries of OpenZeppelin EthPM package : Safemath, Ownable, Pausable and SignerRole
+
+## Design Pattern Decisions
+
+https://github.com/cherylkw/interbanktransfer/blob/master/design_pattern_decisions.md
+
+## Avoiding Common Attacks
+
+https://github.com/cherylkw/interbanktransfer/blob/master/avoiding_common_attacks.md
 
 ## Pre-requisites and programs used versions:
 
